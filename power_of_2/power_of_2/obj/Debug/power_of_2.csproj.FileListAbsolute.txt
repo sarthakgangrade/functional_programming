@@ -1,0 +1,6 @@
+E:\functional_programming\functional_programming\power_of_2\power_of_2\bin\Debug\power_of_2.exe.config
+E:\functional_programming\functional_programming\power_of_2\power_of_2\bin\Debug\power_of_2.exe
+E:\functional_programming\functional_programming\power_of_2\power_of_2\bin\Debug\power_of_2.pdb
+E:\functional_programming\functional_programming\power_of_2\power_of_2\obj\Debug\power_of_2.csproj.CoreCompileInputs.cache
+E:\functional_programming\functional_programming\power_of_2\power_of_2\obj\Debug\power_of_2.exe
+E:\functional_programming\functional_programming\power_of_2\power_of_2\obj\Debug\power_of_2.pdb
