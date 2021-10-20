@@ -1,0 +1,6 @@
+E:\functional_programming\functional_programming\swap2numbers\swap2numbers\bin\Debug\swap2numbers.exe.config
+E:\functional_programming\functional_programming\swap2numbers\swap2numbers\bin\Debug\swap2numbers.exe
+E:\functional_programming\functional_programming\swap2numbers\swap2numbers\bin\Debug\swap2numbers.pdb
+E:\functional_programming\functional_programming\swap2numbers\swap2numbers\obj\Debug\swap2numbers.csproj.CoreCompileInputs.cache
+E:\functional_programming\functional_programming\swap2numbers\swap2numbers\obj\Debug\swap2numbers.exe
+E:\functional_programming\functional_programming\swap2numbers\swap2numbers\obj\Debug\swap2numbers.pdb
