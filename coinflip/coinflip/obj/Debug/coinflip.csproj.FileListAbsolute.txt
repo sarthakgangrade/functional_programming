@@ -1,0 +1,7 @@
+E:\functional_programming\functional_programming\coinflip\coinflip\bin\Debug\coinflip.exe.config
+E:\functional_programming\functional_programming\coinflip\coinflip\bin\Debug\coinflip.exe
+E:\functional_programming\functional_programming\coinflip\coinflip\bin\Debug\coinflip.pdb
+E:\functional_programming\functional_programming\coinflip\coinflip\obj\Debug\coinflip.csproj.AssemblyReference.cache
+E:\functional_programming\functional_programming\coinflip\coinflip\obj\Debug\coinflip.csproj.CoreCompileInputs.cache
+E:\functional_programming\functional_programming\coinflip\coinflip\obj\Debug\coinflip.exe
+E:\functional_programming\functional_programming\coinflip\coinflip\obj\Debug\coinflip.pdb
