@@ -1,0 +1,6 @@
+E:\functional_programming\functional_programming\harmonic_number\harmonic_number\bin\Debug\harmonic_number.exe.config
+E:\functional_programming\functional_programming\harmonic_number\harmonic_number\bin\Debug\harmonic_number.exe
+E:\functional_programming\functional_programming\harmonic_number\harmonic_number\bin\Debug\harmonic_number.pdb
+E:\functional_programming\functional_programming\harmonic_number\harmonic_number\obj\Debug\harmonic_number.csproj.CoreCompileInputs.cache
+E:\functional_programming\functional_programming\harmonic_number\harmonic_number\obj\Debug\harmonic_number.exe
+E:\functional_programming\functional_programming\harmonic_number\harmonic_number\obj\Debug\harmonic_number.pdb
