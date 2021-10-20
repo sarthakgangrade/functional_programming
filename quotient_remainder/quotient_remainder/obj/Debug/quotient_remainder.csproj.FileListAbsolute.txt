@@ -1,0 +1,6 @@
+E:\functional_programming\functional_programming\quotient_remainder\quotient_remainder\bin\Debug\quotient_remainder.exe.config
+E:\functional_programming\functional_programming\quotient_remainder\quotient_remainder\bin\Debug\quotient_remainder.exe
+E:\functional_programming\functional_programming\quotient_remainder\quotient_remainder\bin\Debug\quotient_remainder.pdb
+E:\functional_programming\functional_programming\quotient_remainder\quotient_remainder\obj\Debug\quotient_remainder.csproj.CoreCompileInputs.cache
+E:\functional_programming\functional_programming\quotient_remainder\quotient_remainder\obj\Debug\quotient_remainder.exe
+E:\functional_programming\functional_programming\quotient_remainder\quotient_remainder\obj\Debug\quotient_remainder.pdb
